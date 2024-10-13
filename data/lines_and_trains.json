@@ -1,0 +1,121 @@
+[
+    {
+        "global_id": 1138975976,
+        "Line": "Сокольническая линия",
+        "MetroLineLength": 43.24,
+        "NumberOfCarriages": 571,
+        "NumberOfStations": 27
+    },
+    {
+        "global_id": 1138975977,
+        "Line": "Замоскворецкая линия",
+        "MetroLineLength": 42.92,
+        "NumberOfCarriages": 830,
+        "NumberOfStations": 24
+    },
+    {
+        "global_id": 1138975978,
+        "Line": "Арбатско-Покровская линия",
+        "MetroLineLength": 44.98,
+        "NumberOfCarriages": 435,
+        "NumberOfStations": 22
+    },
+    {
+        "global_id": 1138975979,
+        "Line": "Филёвская линия",
+        "MetroLineLength": 14.53,
+        "NumberOfCarriages": 162,
+        "NumberOfStations": 13
+    },
+    {
+        "global_id": 1138975980,
+        "Line": "Кольцевая линия",
+        "MetroLineLength": 19.17,
+        "NumberOfCarriages": 280,
+        "NumberOfStations": 12
+    },
+    {
+        "global_id": 1138975981,
+        "Line": "Калининская линия",
+        "MetroLineLength": 16.22,
+        "NumberOfCarriages": 248,
+        "NumberOfStations": 8
+    },
+    {
+        "global_id": 1138975982,
+        "Line": "Калужско-Рижская линия",
+        "MetroLineLength": 37.83,
+        "NumberOfCarriages": 624,
+        "NumberOfStations": 24
+    },
+    {
+        "global_id": 1138975983,
+        "Line": "Таганско-Краснопресненская линия",
+        "MetroLineLength": 42.04,
+        "NumberOfCarriages": 680,
+        "NumberOfStations": 23
+    },
+    {
+        "global_id": 1138975984,
+        "Line": "Серпуховско-Тимирязевская линия",
+        "MetroLineLength": 41.31,
+        "NumberOfCarriages": 704,
+        "NumberOfStations": 25
+    },
+    {
+        "global_id": 1138975985,
+        "Line": "Люблинско-Дмитровская линия",
+        "MetroLineLength": 43.77,
+        "NumberOfCarriages": 788,
+        "NumberOfStations": 26
+    },
+    {
+        "global_id": 1138975986,
+        "Line": "Бутовская линия Лёгкого метро",
+        "MetroLineLength": 9.88,
+        "NumberOfCarriages": 69,
+        "NumberOfStations": 7
+    },
+    {
+        "global_id": 1138975987,
+        "Line": "Солнцевская линия",
+        "MetroLineLength": 28.17,
+        "NumberOfCarriages": 288,
+        "NumberOfStations": 14
+    },
+    {
+        "global_id": 1138975988,
+        "Line": "Большая кольцевая линия",
+        "MetroLineLength": 57.35,
+        "NumberOfCarriages": 744,
+        "NumberOfStations": 31
+    },
+    {
+        "global_id": 1138975989,
+        "Line": "Некрасовская линия",
+        "MetroLineLength": 14.01,
+        "NumberOfCarriages": 144,
+        "NumberOfStations": 8
+    },
+    {
+        "global_id": 1138975990,
+        "Line": "Московская монорельсовая транспортная система",
+        "MetroLineLength": 4.7,
+        "NumberOfCarriages": 4,
+        "NumberOfStations": 6
+    },
+    {
+        "global_id": 1138975991,
+        "Line": "Московское центральное кольцо",
+        "MetroLineLength": 54,
+        "NumberOfCarriages": 255,
+        "NumberOfStations": 31
+    },
+    {
+        "global_id": 2702994759,
+        "Line": "Троицкая линия",
+        "MetroLineLength": 7.22,
+        "NumberOfCarriages": 80,
+        "NumberOfStations": 4
+    }
+]
